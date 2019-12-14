@@ -1,0 +1,13 @@
+pool/__pycache__/__init__.cpython-38.pyc
+pool/__pycache__/admin.cpython-38.pyc
+pool/__pycache__/apps.cpython-38.pyc
+pool/__pycache__/models.cpython-38.pyc
+pool/__pycache__/urls.cpython-38.pyc
+pool/__pycache__/views.cpython-38.pyc
+pool/migrations/__pycache__/__init__.cpython-38.pyc
+pool/migrations/__pycache__/0001_initial.cpython-38.pyc
+antida_test/__pycache__/__init__.cpython-38.pyc
+antida_test/__pycache__/settings.cpython-38.pyc
+antida_test/__pycache__/urls.cpython-38.pyc
+antida_test/__pycache__/wsgi.cpython-38.pyc
+.vscode/settings.json
